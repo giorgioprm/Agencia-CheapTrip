@@ -1,2 +1,3 @@
 # Agencia-CheapTrip
- Proyecto
+ Proyecto para estudios
+ Creado con Html, Css, JavaScript.
