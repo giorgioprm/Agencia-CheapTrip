@@ -1,3 +1,3 @@
 # Agencia-CheapTrip
- Proyecto para estudios
+ Proyecto para el curso: Proyecto Integrador I Prueba De Software
  <br>Espero sea de su agrado.<br>
